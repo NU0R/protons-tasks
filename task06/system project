@@ -1,0 +1,3 @@
+name=input("your name:")
+phone= input("your number:")
+email=input("your email:")
